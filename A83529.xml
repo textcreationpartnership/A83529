@@ -1,0 +1,517 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two acts of Parliament, the one for the preventing of the inconveniences happening by the long intermission of Parliament. : And the other for regulating of the Privie Councell, and for taking away the court, commonly called, The Star-Chamber.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83529</idno>
+            <idno type="STC">Wing E2382C</idno>
+            <idno type="STC">ESTC R230802</idno>
+            <idno type="EEBO-CITATION">45097736</idno>
+            <idno type="OCLC">ocm 45097736</idno>
+            <idno type="VID">171330</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171330)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2571:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two acts of Parliament, the one for the preventing of the inconveniences happening by the long intermission of Parliament. : And the other for regulating of the Privie Councell, and for taking away the court, commonly called, The Star-Chamber.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, printer to the Kings Most Excellent Majestie: and by the assignes of John Bil.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Anno Dom. 1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with some loss of print.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Privy Council.</term>
+               <term>England and Wales. --  Court of Star Chamber.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171330:1"/>
+            <p>TWO ACTS OF PARLIAMENT, The one for the preventing of the Inconveniences happening by the long intermiſsion of Parliament.</p>
+            <p>And the other for regulating of the Privie Coun<g ref="char:EOLhyphen"/>cell, and for taking away the Court, commonly called, <hi>The Star-Chamber.</hi>
+            </p>
+            <p>LONDON, Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: and by the Aſſignes of JOHN BIL. <hi>Anno Dom.</hi> 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:171330:2"/>
+            <pb facs="tcp:171330:2"/>
+            <head>ANNO XVI. Caroli Regis.</head>
+            <head type="sub">¶ An Act for the preventing of Inconveniences hap<g ref="char:EOLhyphen"/>pening by the long intermiſsion of Parliaments.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the Lawes and</hi> Statutes of this Realm, the Parlia<g ref="char:EOLhyphen"/>ment ought to be holden at leaſt once every yeer, for the re<g ref="char:EOLhyphen"/>dreſſe of Grievances, but the appointment of the time and place for the holding thereof hath alwayes belonged, as it ought, to His Majeſtie and His Royall Progenitors. And whereas it is by experience found, that the not holding of Parliaments accordingly hath produced ſundry and great miſchiefs and inconveniences to the Kings Majeſtie, the Church and Common-wealth, for the prevention of the like chiefs and inconveniences in time to come;</p>
+            <p>Be it enacted by the Kings moſt excellent Majeſtie, with the conſent of the Lords <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rituall and Temporall, and the Commons in this preſent Parliament aſſembled, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t the ſaid Laws and Statutes be from henceforth duly kept and obſerved, and your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>jeſties loyal &amp; obedient Subjects, in this preſent Parliament now aſſembled, do hum<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pray, that it be enacted; An be it enacted accordingly, by the authority of this pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t Parliament; That in caſe there be not a Parliament ſummoned by Writ under the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Seal of <hi>England,</hi> and aſſembled and held before the tenth day of Septem. which <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll be in the third yeer next after the laſt day of the laſt meeting and ſitting in this <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent Parliament, the beginning of the firſt yeer to be accompted from the ſaid laſt of the laſt meeting and ſitting in Parliament, and ſo from to time to time, and in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes hereafter, if there ſhall not be a Parliament aſſembled and held before the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th day of September, which ſhall be in the third yeer next after the laſt day of the meeting and ſitting in Parliament before that time aſſembled and held; the be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ning of the firſt yeer to be accounted from the ſaid laſt day of the laſt meeting
+<pb facs="tcp:171330:3"/>and ſitting in Parliament; That then in every ſuch caſe as aforeſaid, the Parliament ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> aſſemble and be held in the uſuall place at <hi>Weſtminſter,</hi> in ſuch manner, and by ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> means only as is hereafter in this preſent Act declared and enacted, and not otherwiſe on the ſecond Monday which ſhall be in the moneth of November then next enſuir<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> And in caſe this preſent Parliament now aſſembled and held, or any other Parliament which ſhall at any time hereafter be aſſembled and held by Writ lunder the great S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>England:</hi> or in caſe any Parliament ſhall be aſſembled and held by authority this preſent Act: and ſuch Parliaments, or any of them ſhall be Prorogued or Adjour<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed, or continued by Prorogation or Adjournment, untill the tenth day of September which ſhall be in the third yeer next after the laſt day of the laſt meeting and ſitti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Parliament, to be accompted as aforeſaid, that then in every caſe, every ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Parliament ſo Prorogued or Adjourned, or ſo continued by Prorogation or a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ournment, as aforeſaid, ſhall from the ſaid tenth day of September be thencefore cleerly and abſolutely diſſolved, and the Lord Chancellor of <hi>England,</hi> the Lord Ke<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>er of the great Seal of <hi>England,</hi> and every Commiſſioner and Commiſſioners the keeping of the great Seal of <hi>England</hi> for the time being, ſhall within ſix da<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> after the ſaid tenth day of September, in every ſuch third year as aforeſaid due form of Law, and without any further Warrant or Direction from His Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtie, His Heires or Succeſſours, Seal, iſſue forth, and ſend abroad ſeverall and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſpective Writs to the ſeverall and reſpective Peeres of this Realm, commanding ev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch Peer that he perſonally be at the Parliament to be held at <hi>Weſtminſter,</hi> on the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cond Monday that ſhall be in November next following the ſaid tenth day of Septem<g ref="char:EOLhyphen"/>ber, then and there to treat concerning the high and urgent Affairs concerning <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Majeſtie, the State, and defence of the Kingdom and Church of <hi>England:</hi> and ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo Seal, iſſue forth, and ſend abroad ſeverall and reſpective Writs to the ſeve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and reſpective Sheriffs of the ſeverall and reſpective Counties, Cities, and Borough of <hi>England</hi> and <hi>Wales,</hi> and to the Conſtable of the Caſtle of <hi>Dover,</hi> Lord Warden<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Cinque-Ports, or his Lieutenant for the time being, and to the Major and Bai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Barwick upon Tweed,</hi> and to all and every other Officers and Perſons to wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Writs have uſed to be directed, for the electing of the Knights, Citizens, Barons, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Burgeſſes, of and for the ſaid Counties, Cities, Cinque-Ports, and Borough <hi>England</hi> and <hi>Wales,</hi> reſpectively, in the accuſtomed form to appear and ſerve in Parli<g ref="char:EOLhyphen"/>ment to be held at <hi>Westminſter</hi> on the ſaid ſecond Monday, which ſhall be in Novem<g ref="char:EOLhyphen"/>ber aforeſaid, which ſaid Peers, after the ſaid Writs received, and which ſaid Knig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Citizens, Barons, and Burgeſſes choſen by vertue of the ſaid Writs, ſhall then a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there appear and ſerve in Parliament accordingly. And the ſaid Lord Chancellor Lord Keeper, Commiſſioner and Commiſſioners aforeſaid, ſhall reſpectively take ſolemn Oath upon the holy Evangeliſt for the due iſſuing of Writs, according to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tenour of this Act, <hi>viz. in haec verba:</hi>
+            </p>
+            <p>
+               <hi>YOu ſhall ſwear, that you ſhall truely and faithfully iſſue forth and ſend abroad all W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Summons to Parliament for both Houſes, at ſuch time and in ſuch manner a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> expreſſed and enjoyned by an Act of Parliament, intituled;</hi> An Act for the prevent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of inconveniencies happening by the long intermiſſion of <hi>Parliaments.</hi>
+            </p>
+            <p>Which Oath is forthwith to be taken by the preſent Lord Keeper, and to be miniſtred by the Clerk of the Crown to every Lo. Chancellour, Lord Keeper, Co<g ref="char:EOLhyphen"/>miſſioner and Commiſſioners aforeſaid, and that none of the ſaid Officers reſpect<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:171330:3"/>ſhall henceforth execute any the ſaid offices before they have taken the ſaid Oath. And if the ſaid Lord Chancellour, Lord Keeper, or any the ſaid Commiſſioners ſhall fail or forbear ſo to iſſue out the ſaid Writs, according to the true meaning of this Act, then he or they reſpectively ſhall, beſide the incuring of the grievous ſin of perjury, be diſabled, and become by vertue of this Act incapable, <hi>ipſo facto,</hi> to bear his and their ſaid Offices reſpectively, and be further lyable to ſuch puniſhments as ſhall be in<g ref="char:EOLhyphen"/>flicted on him or them by the next or any other enſuing Parliament. And in caſe the ſaid Lord Chancellour, Lord Keeper, Commiſſioner or Commiſſioners aforeſaid, ſhall not iſſue forth the ſaid Writs as aforeſaid: or in caſe that the Parliament do not aſ<g ref="char:EOLhyphen"/>ſemble and be held at the time and place before appointed, Then the Parliament ſhall aſſemble and be held in the uſuall place at <hi>Weſtminſter,</hi> in ſuch manner, and by ſuch means onely, as is hereafter in this preſent Act declared and enacted, and not otherwiſe, on the third Monday which ſhall be in the moneth of January then next enſuing. And the Peers of this Realm ſhall by vertue of this Act be enabled, and are enjoyned to meet in the old Palace of <hi>Weſtminſter,</hi> in the uſuall place there, on the third Monday in the ſaid moneth of November, and they or any twelve or more of them, then and there aſſembled, ſhall on or before the laſt Monday of November next following the tenth of September aforeſaid, by vertue of this Act, without other Warrant, iſſue out Writs in the uſuall form, in the name of the Kings Majeſtie, His Heirs or Succeſſors, atteſted under the hands and ſeals of twelve or more of the ſaid Peers, to the ſeverall and reſpective Sheriffs of the ſeverall and reſpective Counties, Cities, and Boroughs of <hi>England</hi> and <hi>Wales,</hi> and to the Conſtable of the Caſtle of <hi>Dover,</hi> Lord Warden of the Cinque-Ports, or his Lieutenant for the time being, and to the Major and Bailiffs of <hi>Barwick upon Tweed,</hi> and to all and every other the ſaid Officers and perſons to whom Writs have been uſed to be directed, for the electing of the Knights, Citizens, Barons, and Burgeſſes, of and for the ſaid Counties, Cities, Cinque-Ports, and Boroughs, to be and appear at the Parliament at <hi>Weſtminſter</hi> afore<g ref="char:EOLhyphen"/>ſaid, to be held on the third Monday in January then next following: All and every Writs the Clerks of the Pettibag, and other Clerks to whom the writing of the Writs for Summons to the Parliament, doth and ſhall belong, or whom the ſaid Lords, or twelve or more of them ſhall appoint, ſhall at the command of the ſaid Lords ſo aſ<g ref="char:EOLhyphen"/>ſembled, or of any twelve or more of them, make and prepare ready for the Signa<g ref="char:EOLhyphen"/>ture of the ſaid Lords or any twelve or more of them, under pain of the loſſe of their Places and offices, and of ſuch other puniſhment, as in the next, or any other enſuing Parliament, ſhall be inflicted on him or them. And it is enacted, That the ſaid Writs ſo iſſued ſhall be of the ſame power and force to all intents and purpoſes as the Writs or ſummons to Parliament under the great ſeal of <hi>England,</hi> have ever been or ought to be. And all the Meſſengers of the Chamber or others who ſhall be appointed by the ſaid Lords, or any twelve or more of them, are hereby required faithfully and ſpeedily to deliver the ſaid Writs to every perſons, Sheriffe, Officers, and others to whom the ſame ſhall be directed: which if the ſaid Meſſengers or any of them ſhall fail to perform, they ſhall forfeit their reſpective Places, and incurre other pains and puniſhments as by that or any other enſuing Parliament ſhall be impoſed on them.</p>
+            <p>And it is alſo further enacted, That all and every the Peers of this Realm ſhall make their appearance, and ſhall aſſemble on the ſaid third Monday in January, in ſuch manner, and to ſuch effect, and with ſuch power, as if they had received every of them Writs of ſummons to Parliament, under the great ſeal of <hi>England,</hi> in the uſuall and accuſtomed manner. And in caſe the ſaid Lords, or twelve or more of
+<pb facs="tcp:171330:4"/>them, ſhall fail to iſſue forth ſuch Writs, or that the ſaid Writs do not cometo the ſaid ſeverall Counties, Cities, Cinque-Ports, and Borroughs, ſo that an election be not thereupon made; And in caſe there be not a Parliament aſſembled and held before the three and twentieth day of the ſaid moneth of January, and ſo from time to time, and in all times hereafter, if there ſhall not be a Parliament aſſembled, and held before the ſaid three and twentieth day of January; then in every ſuch caſe as aforeſaid, the Parliament ſhall aſſemble, and be held in the uſuall place at <hi>Weſtminſter,</hi> in ſuch man<g ref="char:EOLhyphen"/>ner, and by ſuch means onely as is hereafter in this preſent Act declared and enacted, and not otherwiſe, on the ſecond Tueſday which ſhall be in the moneth of March next after the ſaid three and twentieth day of January: At which Parliament the Peers of this Realm ſhall make their appearance, and ſhall aſſemble at the time and place aforeſaid, and ſhall each of them be liable unto ſuch pains and Cenſures, for his, and their not appearing and ſerving then and there in Parliament, as if he, or they had been ſummoned by Writ under the great ſeal of <hi>England,</hi> and had not appeared and ſerved, and to ſuch further pains and Cenſures, as by the reſt of the Peers in Parliament aſſembled, they ſhall be adjudged unto.</p>
+            <p>And for the better aſſembling of the Knights, Citizens, Barons and Burgeſſes to the ſaid Parliament, as aforeſaid; It is further Enacted, That the reſpective Sheriffs of their ſeverall and reſpective Counties, Cities, and Boroughs of <hi>England</hi> and <hi>Wales,</hi> the Chancellour, Maſters and Schollers of both and every of the Univerſities, and the Major and Bailiffs of the Borough of <hi>Barwick</hi> upon <hi>Tweed,</hi> ſhall at the ſeverall Courts, and places to be held and appointed for their reſpective Counties, Univer<g ref="char:EOLhyphen"/>ſities, Cities and Boroughs, next after the ſaid three and twentieth day of January, cauſe ſuch Knight and Knights, Citizen and Citizens, Burgeſſe and Burgeſſes of their ſaid Counties, Univerſities, Cities and Boroughs reſpectively, to be choſen by ſuch perſons, and in ſuch manner, as if ſeverall and reſpective Writs of ſummons to Par<g ref="char:EOLhyphen"/>liament under the great ſeal of <hi>England</hi> had iſſued, and been awarded. And in caſe any of the ſeverall Sheriffs, or the Chancellour, Maſters and Schollers of either of the Univerſities, or the Major and Bailiffs of <hi>Barwick</hi> reſpectively, do not before ten of the Clock in the forenoon of the ſame day, wherein the ſeverall and reſpective Courts and places ſhall be held or appointed, for their ſeverall and reſpective Coun<g ref="char:EOLhyphen"/>ties, Univerſities, Cities and Boroughs as aforeſaid, begin and proceed on according to the meaning of this Law, in cauſing Elections to be made of ſuch Knight and Knights, Citizen and Citizens, Burgeſſes of their ſaid Counties, Univerſities, Cities, and Boroughs as aforeſaid, then the Freeholders of each County, and the Maſters and Schollers of every of the Univerſities, and the Citizens, and others having voices in ſuch Election reſpectively, in each Univerſity, City and Borough, that ſhall be aſſem<g ref="char:EOLhyphen"/>bled at the ſaid Courts or places to be held, or appointed, as aforeſaid, ſhall forth<g ref="char:EOLhyphen"/>with, without further Warrant, or direction, proceed to the Election of ſuch Knight or Knights, Citizen or Citizens, Burgeſſe or Burgeſſes aforeſaid, in ſuch manner as is uſuall in caſe of Writs of ſummons iſſued and awarded.</p>
+            <p>And it is further enacted, That the ſeverall and reſpective Sheriffs of their ſeverall and reſpective Counties, and the Conſtables of the Caſtle of <hi>Dover,</hi> and Lord Warden of the Cinque-Ports, or his Lieutenant for the time being reſpectively, ſhall after the ſaid three and twentieth day of January, and before the eighth day of February then immediately next enſuing, award and ſend forth their Precepts to the ſeverall and re<g ref="char:EOLhyphen"/>ſpective Cities and Boroughs, within their ſeverall Counties, and likewiſe unto the ſaid Cinque-Ports reſpectively, Commanding them reſpectively to make choice of ſuch
+<pb facs="tcp:171330:4"/>Citizen and Citizens, Barons, Burgeſſe and Burgeſſes, to ſerve in the ſaid Parlia<g ref="char:EOLhyphen"/>ment, at the time and place aforeſaid; Which ſaid Cities, Cinque-Ports, and Boroughs reſpectively, ſhall before the laſt day of the ſaid moneth of February, make election of ſuch Citizen and Citizens, Barons, Burgeſſe and Burgeſſes, as if writs for Sum<g ref="char:EOLhyphen"/>moning of a Parliament, under the great ſeal of <hi>England,</hi> had iſſued and been awarded. And in caſe no ſuch precept ſhall come unto the ſaid Cities, Cinque-ports, and Bo<g ref="char:EOLhyphen"/>roughs reſpectively, by the time herein limited; Or in caſe any precept ſhall come, and no election be made thereupon before the ſaid laſt day of February, That then the ſeverall Citizens, Burgeſſes, and other perſons that ought to elect and ſend Citi<g ref="char:EOLhyphen"/>zens, Barons, and Burgeſſes to the Parliament, ſhall on the firſt Tueſday in March, then next enſuing the ſaid laſt day of February, make choice of ſuch Citizen and Citizens, Barons, Burgeſſe and Burgeſſes, as if a Writ of ſummons under the great ſeal of <hi>England,</hi> had iſſued and been awarded, and precepts thereupon iſſued, to ſuch Cities, Cinque-ports, and Boroughs: Which Knights, Citizens, Barons, and Bur<g ref="char:EOLhyphen"/>geſſes ſo choſen, ſhall appear, and ſerve in Parliament at the time and place aforeſaid, and ſhall each of them be liable unto ſuch paines and Cenſures, for his and their not appearing and ſerving then and there in Parliament, as if he or they had been elected and choſen by vertue of a Writ under the great ſeal of <hi>England;</hi> and ſhall be likewiſe ſubject unto ſuch further paines and Cenſures, as by the reſt of the Knights, Citizens, and Burgeſſes aſſembled in the Commons houſe of Parliament, he or they ſhall be adjudged unto. And the Sheriffs and other Officers and perſons to whom it apper<g ref="char:EOLhyphen"/>taineth, ſhall make returns, and accept and receive the Returns of ſuch elections in like manner as if Writs of ſummons had iſſued, and been executed as hath been uſed and accuſtomed. And in default of the Sheriffs and others Officers reſpectively in not accepting, or making return of ſuch elections, it ſhall and may be lawfull, to and for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſeverall Freeholders and other perſons that have elected, to make returns of the Knights, Citizens, Barons and Burgeſſes by them elected, which ſhall be as good <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd effectuall to all intents and purpoſes, as if the Sherife or other officers, had re<g ref="char:EOLhyphen"/>ceived a Writ of ſummons for a Parliament, and had made ſuch returnes. And that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch Elections, precepts and Returnes ſhall be had and made at ſuch times, by ſuch per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, and in ſuch manner as before in this Act is expreſſed and declared, according <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the true intent and meaning of this Law; Any Writ, Proclamation, Edict, Act, Reſtraint, Inhibition, Order or Warrant to the contrary in any wiſe notwith<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tanding. And in caſe any perſon, or perſons ſhall be fo hardy to adviſe, frame, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ive, ſerve, or put in in execution any ſuch Writs, Proclamation, Edict, Act, Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>traint, Inhibition, Order, or Warrant thereupon; then he or they ſo offending ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cur and ſuſtain the pains, penalties, and forfeitures, limited, ordained, and provided <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and by the Statute of proviſion and premunire made in the 16 yeer of King <hi>Richard</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſecond, and ſhall from thenceforth be diſabled during his life to ſue or implead <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny perſon in any Action reall or perſonall, or to make any Gift, Grant, Convey<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, or other diſpoſition of any his Lands, Tenements, Hereditaments, Goods or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>attels, which he hath to his own uſe either by Act executed in his life time, or by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s laſt Will, or otherwiſe, or to take any Gift, Conveyance, or Legacie to his own ſe, or to take any benefit of any Gift, Conveyance, or Legacy to his own uſe. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any Sheriffe, Conſtable of the Caſtle of <hi>Dover,</hi> or Lord Warden of the Cinque-ports, ſhall not perform his duty enjoyned by this Act, then he ſhall loſe and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſeit the ſum of one thouſand pounds; and every County, City, Cinque-port, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orough, that ſhall not make election of their Knights, Citizens, Barons, and Bur<g ref="char:EOLhyphen"/>geſſes
+<pb facs="tcp:171330:5"/>reſpectively, ſhall incur the penalties following (that is to ſay) every County the ſum of one thouſand pounds, and every City which is no County, two hundred pounds, and every Cinque-port and Borough the ſum of one hundred pounds. All and every of which ſeverall Forfeitures, and all other Forfeitures in this Act mentioned ſhall and may be recovered in any of the Kings Courts of Record at <hi>Weſtminſter,</hi> by and in the name of the Lord Major of the City of <hi>London</hi> for the time being, without naming the Chriſtian name or ſirname of the ſaid Lord Major for the time being, by Action of Debt, Bill, plaint or Information, wherin no Eſſogin, Protection, Wager of Law, Aid, prayer, Priviledge, Injunction or Or<g ref="char:EOLhyphen"/>der of Reſtraint ſhall be in any wiſe prayed, granted or allowed, nor any more then one Imparlance. And if any perſon after notice given, that the Action depending is grounded or proſecuted upon or by vertue of this Statute ſhall cauſe or procure any ſuch Action to be ſtayed or delayed before Judgement, by colour or means of any Order, Warrant, Power or authority, ſave onely of the Court wherein ſuch Acti<g ref="char:EOLhyphen"/>on, as aforeſaid, ſhall be brought or depending, or after Judgement had upon ſuch Action, ſhall cauſe or procure the Execution of or upon any ſuch Judgement to be ſtayed or delayed by colour or means of any Order, warrant, Power or authority, ſave onely by Writ of Errour or Attaint; that then the ſaid perſons ſo offending ſhall incurre and ſuſtain all and every the pains, penalties, and forfeitures limited, ordained, and provided in and by the ſaid Statute of proviſion, and premunire, made in the ſix<g ref="char:EOLhyphen"/>teenth yeer of King <hi>Richard</hi> the Second: And if any Lord Major of <hi>London</hi> ſhall at any time hereafter commence or preferre any ſuch ſuite, Action or Information, and ſhall happen to die or be removed out of his office before Recovery and Execution had; that yet no ſuch Action, ſuit, or Information ſued, commenced, or prefer<g ref="char:EOLhyphen"/>red, ſhall by ſuch diſplacing or death be abated, diſcontinued, or ended, but that it ſhall and may be lawfull to and for the Lord Major of the City of <hi>London</hi> next ſuc<g ref="char:EOLhyphen"/>ceeding in that Office and place, to proſecute, purſue and followed all and every ſuch Action, Bill, plaint or Information for the Cauſes aforeſaid ſo hanging and de<g ref="char:EOLhyphen"/>pending, in ſuch manner and form, and to all intents and purpoſes as that Lord Major might have done which firſt commenced or preferred the ſame. The fifth part of all and every the Forfeitures in this Act mentioned ſhall go and be to and for the uſe and behoof of the City of <hi>London;</hi> and the other four parts and reſidue to be employed and diſpoſed to and for ſuch onely uſes, intents, and purpoſes, as by the Knights Citizens, and Burgeſſes, in Parliament aſſembled ſhall be declared, directed, and appointed. Provided, that in caſe the Freeholders of any County and Inhabitants or other perſons having or claiming power to make election of any Knights, Citizens Barons, or Burgeſſes ſhall proceed to making of election of their Knights, Citizens Barons, and Burgeſſes, which Election ſhall afterwards fall out to be afterwards ad<g ref="char:EOLhyphen"/>judged or declared void in Law by the Houſe of Commons, by reaſon of equality o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> voices, or miſdemeanour of any perſon whatſoever; then the ſaid County, City Cinque-port, or Borough ſhall not incurre the penalties in this Law, ſo as an Election <hi>de facto</hi> be made.</p>
+            <p>And it is further enacted, that no Parliament henceforth to be aſſembled, ſhall be diſſolved or prorogued within fifty dayes at the leaſt after the time appointed fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the meeting thereof, unleſſe it be by aſſent of His Majeſtie, His Heirs, or Succeſ<g ref="char:EOLhyphen"/>ſours, and of both Houſes in Parliament aſſembled: And that neither the Houſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Peers, nor the Houſe of Commons ſhall be adjourned within fifty dayes at leaſt, after the meeting thereof, unleſſe it be by the free conſent of every the ſaid Houſes reſpe<g ref="char:EOLhyphen"/>ctively.</p>
+            <p>
+               <pb facs="tcp:171330:5"/>
+And be it further enacted and declared by authority of this preſent Parliament, that the Peers to be aſſembled at any Parliament, by vertue of this Act, ſhall and may from time to time, at any time during ſuch their aſſembly in Parliament, chooſe and declare ſuch perſon to be Speaker for the ſaid Peers, as they ſhall think fit: And like<g ref="char:EOLhyphen"/>wiſe that the ſaid Knights, Citizens, and Burgeſſes to be aſſembled at any Parliament, by vertue of this Act, ſhall and may from time to time, at any time during ſuch their aſſembly in Parliament, chooſe and declare one of themſelves to be Speaker for the ſaid Knights, Citizens, and Burgeſſes of the Houſe of Commons aſſembled in the ſaid Parliament, as they ſhall think fit: which ſaid Speakers, and every of them, aſwell for the ſaid Peers, as for the ſaid Houſe of Commons reſpectively, ſhall by vertue of this Act be perfect and compleat Speakers for the ſaid Houſes reſpectively, and ſhall have as full and large power, juriſdiction, and priviledges to all intents and purpoſes, as any Speaker, or Speakers of either of the ſaid Houſes reſpectively, hereto<g ref="char:EOLhyphen"/>ſore have had, or enjoyed.</p>
+            <p>And it is further enacted and declared, that all Parliaments hereafter to be aſſem<g ref="char:EOLhyphen"/>bled by authority of this Act, and every member thereof, ſhall have and enjoy all Rites, Priviledges, Juriſdictions, and Immunities, as any Parliament ſummoned by Writ under the great Seal of <hi>England,</hi> or any Member thereof might, or ought to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave: And all and every the Members that ſhall be elected, and choſen to ſerve in any Parliament hereafter to be aſſembled by authority of this Act, as aforeſaid, ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſemble and meet in the Commons Houſe of Parliament, and ſhall enter into the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, and have voices in ſuch Parliament, before, and without the taking of the ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erall oathes of Supremacy and Allegiance, or either of them; any Law or Statute to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e contrary thereof in any wiſe notwithſtanding.</p>
+            <p>Provided alwayes, That if the Kings Majeſty, His Heires or Succeſſors, ſhall at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y time during any Parliament hereafter to be aſſembled by authority of this Act, as foreſaid, award or direct any Commiſſion, or Commiſſions, unto any perſon, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons whatſoever, thereby giving power and authority to him or them, to take and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ceive the Oath of Supremacy and Allegiance, of all or any the members of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ommons Houſe of Parliament, and any the Members of that Houſe, being duly re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ired thereunto, ſhall refuſe or neglect to take and pronounce the ſame, that from <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>enceforth ſuch perſon ſo refuſing or neglecting, ſhall be deemed no Member of that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ouſe, nor ſhall have any voice therein, and ſhall ſuffer ſuch paines and penalties, as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he had preſumed to ſit in the ſame houſe without election, return or authority. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd it is likewiſe provided and enacted, that this Statute ſhall be publikely read yeer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> at every generall Seſſions of the peace, to be held next after the <hi>Epiphany,</hi> and every <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſiſes then next enſuing, by the Clerke of the Peace, and Clerke of the Aſſiſes for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e time being reſpectively; and if they or either of them, ſhall neglect, or fail to do <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſame accordingly, then ſuch party ſo neglecting or failing, ſhall forfeit the ſum <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> one hundred pounds. And it is laſtly provided and enacted, that His Majeſties <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all aſſent to this Bill ſhall not thereby determine this preſent Seſſion of Parliament, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that all Statutes and Acts of Parliament, which are to have continuance unto the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this preſent Seſſion, ſhalbe of full force after His Majeſties aſſent, untill this pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t Seſſion be fully ended and determined: And if this preſent Seſſion ſhall dete mine diſſolution of this preſent Parliament, then all the Acts and Statutes aforeſaid, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll be continued untill the end of the firſt Seſſion of the next Parliament.</p>
+         </div>
+         <div type="act">
+            <pb facs="tcp:171330:6"/>
+            <pb facs="tcp:171330:6"/>
+            <head>ANNO XVII Caroli Regis.</head>
+            <head type="sub">¶ An Act for regulating of the Privie Councell, and for taking away the Court, commonly called, <hi>The Star-Chamber.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the Great Charter many</hi> times confirmed in Parlia<g ref="char:EOLhyphen"/>ment, It is enacted, That no Freeman ſhall be taken or im<g ref="char:EOLhyphen"/>priſoned, or diſſeiſed of his Freehold, or Liberties, or free Cuſtomes, or be Outlawed, or exiled, or otherwiſe deſtroy<g ref="char:EOLhyphen"/>ed, and that the King will not paſſe upon him, or con<g ref="char:EOLhyphen"/>demn him but by lawfull Judgement of his Peers, or by the Law of the land; And by another ſtatute made in the fifth yeer of the Reign of King <hi>Edward</hi> the third, It is Enacted, That no man ſhall be attached by any accuſation, nor fore<g ref="char:EOLhyphen"/>judged of life or lim, nor his Lands, Tenements, Goods, nor Chattels ſeiſed into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kings hands againſt the form of the great Charter, and the Law of the land. And by another ſtatute made in the five and twentieth yeer of the Reign of the ſame <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>Edward</hi> the third, It is accorded, aſſented and eſtabliſhed, that none ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ken by petition, or ſuggeſtion made to the King or to His Councell, unleſſe it be by indictment or preſentment of good and lawfull people of the ſame Neighbourhood <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here ſuch deeds be done, in due manner, or by proceſſe made by Writ originall at <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e common Law, and that none be put out of his Franchiſe or Free-hold, unleſſe he <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> duly brought in, to anſwer, and forejudged of the ſame by the courſe of the Law, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d if any thing be done againſt the ſame, it ſhall be redreſſed and holden for none, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by another ſtatute made in the eight and twentieth yeer of the Reign of the ſame <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng <hi>Edward</hi> the third, It is amongſt other things Enacted, that no man of what eſtate <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>condition ſoever he be, ſhall be put out of his Lands or Tenements, nor taken, nor <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>priſoned, nor diſinherited, without being brought in to anſwer by due proceſſe of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w, And by another ſtatute made in the two and fourtieth yeer of the Reign of the
+<pb facs="tcp:171330:7"/>ſaid King <hi>Edward</hi> the third, It is Enacted that no man by pur to anſwer with out preſenament before Juſtices, or matter of Record, or by due proceſſe and Writ are ginall, according to the old Law of the land, and if any thing be done to the con<g ref="char:EOLhyphen"/>trary, it ſhall be void in Law and holden for errour. And by another ſtatute made in the ſix and thirtieth yeer of the ſame King <hi>Edward</hi> the third, It is amongſt other things Enacted, That all pleas which ſhall be pleaded in any courts before any the Kings Juſtices, or in His other places, or before any of his other Miniſters, or in the courts and places of any other Lords within the Realm, ſhall be entred and in<g ref="char:EOLhyphen"/>rolled in latine, And whereas by the ſtatute made in the third yeer of King <hi>Henry</hi> the ſeventh, power is given to the Chancellour, the Lord Treaſurer of <hi>England</hi> for the time being, and the Keeper of the Kings privie ſeal, or two of them, calling un<g ref="char:EOLhyphen"/>to them a Biſhop and a Temporall Lord of the Kings moſt honourable Councell, and the two chief Juſtices of the Kings bench and common pleas for the time being, or o<g ref="char:EOLhyphen"/>ther two Juſtices in their abſence to proceed, as in that act is expreſſed, for the pu<g ref="char:EOLhyphen"/>niſhment of ſome particular offences therein mentioned, And by the ſtatute made in the one and twentieth yeer of King <hi>Henry</hi> the eighth, The Preſident of the Councel is aſſociated to joyn with Lord Chancellour and other Judges in the ſaid ſtatute, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the third of <hi>Henry</hi> the ſeventh mentioned, But the ſaid Judges have not kept themſelves to the points limited by the ſaid ſtatute, but have undertaken to puniſh where no Law doth warrant, and to make Decrees for things having no ſuch authori<g ref="char:EOLhyphen"/>tie, and to inflict heavier puniſhments then by any Law is warranted.</p>
+            <p>And foraſmuch as all matters examinable, or determinable before the ſaid Judges, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Court commonly called the Star-chamber, may have their proper remedy an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> redreſſe, and their due puniſhment, and correction by the Common Law of the Land and in the ordinary courſe of Juſtice elſewhere; And foraſmuch as the reaſons and motives inducing the erection and continuance of that Court do now ceaſe, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proceedings, Cenſures, and Decrees of that Court, have by experience been foun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be an intolerable burthen to the ſubject, and the meanes to introduce an Arbitra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> power and Government; And foraſmuch as the Councell-Table, hath of late time aſſumed unto it ſelf, a power to intermeddle in Civill cauſes and matters, onely <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> private interreſt between party, and party, and have adventured to determine <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Eſtates, and Liberties of the Subject, contrary to the Law of the Land, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rights and priviledges of the Subject, by which great and manifold miſchiefs, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inconveniencies have ariſen, and happened, and much incertainty by means of ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proceedings hath been conceived concerning mens rights, and eſtates; For ſetli<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whereof, and preventing the like in time to come;</p>
+            <p>Be it Ordained and enacted by Authority of this preſent Parliament, That t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaid Court commonly called the Star-Chamber, and all Juriſdiction, power, and a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> thority, belonging unto, or exerciſed in the ſame Court, or by any the Judges, Of<g ref="char:EOLhyphen"/>ficers, or Miniſters thereof, be from the firſt day of Auguſt, in the yeer or our Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God, one thouſand ſix hundred fourty and one, cleerly and abſolutely diſſolved, take<g ref="char:EOLhyphen"/>away, and determined, and that from the ſaid firſt day of Auguſt, neither the Lord Chancellor, or Keeper of the great ſeal of <hi>England,</hi> the Lord Treaſurer of <hi>England</hi> the Keeper of the King Privy-ſeal, or Preſident of the Councell, nor any Biſhop temporall Lord, Privy-Councellor, or Judge, or Juſtice whatſoever, ſhall have an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power, or authority to hear, examine, or determine any matter, or thing whatſo<g ref="char:EOLhyphen"/>ever, in the ſaid Court commonly called the Star-Chamber, or to make, pronounce, deliver any Judgement, ſentence, Order, or Decree, or to do any Judiciall, or Min<g ref="char:EOLhyphen"/>ſteriall Act in the ſaid Court; And that all and every Act, and Acts of Parliament
+<pb facs="tcp:171330:7"/>and all and every Article, clauſe, and ſentence in them, and every of them, by which any Juriſdiction, power, or authority is given, limitted, or appointed unto the ſaid Court, commonly called the Star-Chamber, or unto all, or any the Judges, Officers, or Miniſters thereof, or for any proceedings to be had, or made in the ſaid Court, or for any matter, or thing to be drawn into queſtion, examined, or determined there, ſhall for ſo much as concerneth the ſaid Court of Star-Chamber, and the power, and authority thereby given unto it, be from the ſaid firſt day of Auguſt repealed, and ab<g ref="char:EOLhyphen"/>ſolutely revoked and made void.</p>
+            <p>And be it likewiſe enacted, That the like Juriſdiction now uſed and exerciſed in the Court before the Preſident, and Councell, in the Marches of <hi>Wales,</hi> and alſo in the Court, before the Preſident, and Councell eſtabliſhed in the Northern parts: And alſo in the Court, commonly called the Court of the Duchy of Lancaſter, held before the Chancellor, and Councell of that Court. And alſo in the Court of Exchequer, of the County Palatine of Cheſter, held before the Chamberlain and Councell of that Court; The like Juriſdiction being exerciſed there, ſhall from the ſaid firſt day of Auguſt, one thouſand ſix hundred fourty and one, be alſo repealed, and abſolute<g ref="char:EOLhyphen"/>ly revoked and made void, any Law, preſcription, cuſtome, or uſage, Or the ſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tatute, made in the third yeer of King <hi>Henry</hi> the ſeventh; Or the Statute, made <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he one and twentieth of <hi>Henry</hi> the eight, Or any Act, or Acts of Parliament here<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofore had, or made, to the contrary thereof in any wiſe notwithſtanding; And that from henceforth no Court, Councell, or place of Judicature ſhall be erected, or<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ained, conſtituted, or appointed within this Realm of <hi>England,</hi> or Dominion of <hi>Wales,</hi> which ſhall have, uſe, or exerciſe the ſame, or the like Juriſdiction, as is, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath been uſed, Practiſed, or exerciſed in the ſaid Court of Star-Chamber.</p>
+            <p>Be it likewiſe declared, and enacted by authority of this preſent Parliament, That <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>either his Majeſtie, nor his Privy-Councell, have, or ought to have any Juriſdicti<g ref="char:EOLhyphen"/>on, power, or authority, by Engliſh Bill, Petition, Articles, Libell, or any other Arbitrary way whatſoever, to examine or draw into queſtion, determine, or diſpoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Lands, Tenements, Hereditaments, Goods, or Chattels, of any the Subjects <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f this Kingdom: But that the ſame ought to be tried, and determined in the ordina<g ref="char:EOLhyphen"/>ry Courts of Juſtice, and by the ordinary courſe of the Law.</p>
+            <p>And be it further provided, and enacted, That if any Lord Chancellour, or Keeper of the great ſeal of <hi>England,</hi> Lord Treaſurer, Keeper of the Kings Privy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, Preſident of the Councell, Biſhop, Temporall Lord, Privy Councellour, Iudge, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Iuſtice whatſoever, ſhall offend, or do any thing contrary to the purport, true in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt and meaning of this Law, Then he, or they ſhall for ſuch offence, forfeit the ſum <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f five hundred pounds of lawfull money of <hi>England,</hi> unto any party grieved, his Exe<g ref="char:EOLhyphen"/>cutors, or Adminiſtrators who ſhall really proſecute for the ſame, and firſt obtain <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dgement thereupon, to be recorded in any Court of Record at <hi>Weſtminſter,</hi> by <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ction of Debt, Bill, Plaint, or information, wherein no Eſſoine, Protection, Lager of Law, Aid, Prayer, Priviledge, Injunction, or Order of reſtraint ſhall in any wiſe prayed, granted, or allowed, nor any more then one Imparlance. And <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny perſon, againſt whom any ſuch Iudgement, or Recovery ſhall be had as afore<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, ſhall after ſuch Judgement, or Recovery offend again in the ſame, then he, or <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y for ſuch offence, ſhall forfeit the ſum of one thouſand pounds, of lawfull money <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>England,</hi> unto any party grieved, his Executors, or Adminiſtrators, who ſhall ally proſecute for the ſame, and firſt obtain Iudgement thereupon to be Recorded any Court of Record at <hi>Weſtminſter,</hi> by Action of Debt, Bill, Plaint, or informa<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:171330:8"/>in which no Eſſoigne, Protection, Wager of Law, Aid, Prayer, Priviledge Injunction, or Order of Reſtraint, ſhall be in any wiſe prayed, granted, or allowed nor any more then one Imparlance. And if any perſon againſt whom any ſuch ſecond judgement, or Recovery ſhall be had as aforeſaid, ſhall after ſuch judgement, or Re<g ref="char:EOLhyphen"/>covery offend again in the ſame kinde, and ſhall be thereof duly convicted, by In<g ref="char:EOLhyphen"/>dictment, Information, or any other lawfull way, or means, that ſuch perſon ſo con<g ref="char:EOLhyphen"/>victed, ſhall be from thenceforth diſabled, and become by vertue of this Act inca<g ref="char:EOLhyphen"/>pable, <hi>Ipſo facto,</hi> to bear his, and their ſaid Office, and Offices reſpectively, and ſhall be likewiſe diſabled to make any Gift, Grant, Conveyance, or other diſpoſition of any his Lands, Tenements, Hereditaments, Goods, or Chattels, or to take any benefit of any Gift, Conveyance, or Legacy to his own uſe.</p>
+            <p>And every perſon ſo offending ſhall likewiſe forfeit and loſe unto the party grieved by any thing done contrary to the true intent, and meaning of this Law, his tre<g ref="char:EOLhyphen"/>ble damages, which he ſhall ſuſtain, and be put unto by means, or occaſion of any ſuch Act, or thing done, the ſame to be recovered in any of His Majeſties Courts o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Record at <hi>Weſtminſter,</hi> by Action of Debt, Bill, Plaint, or Information, wherein no Eſſoigne, Protection, Wager of Law, Aid, Prayer, Priviledge, Injunction o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Order of Reſtraint, ſhall be in any wiſe Prayed, Granted, or allowed, nor any more then one Imparlance.</p>
+            <p>And be it alſo provided and enacted, That if any perſon ſhall hereafter be com<g ref="char:EOLhyphen"/>mitted, reſtrained of his liberrie, or ſuffer impriſonment by the Order or Decree o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any ſuch Court of Star-Chamber, or other Court aforeſaid, now, or at any time hereafter having or pretending to have the ſame or like Juriſdiction, Power or Autho<g ref="char:EOLhyphen"/>ritie to commit, or impriſon as aforeſaid; or by the Command or Warrant of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings Majeſtie, his Heires or Succeſſours in their own perſon, or by the Command o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Warrant of the Councel-board, or of any of the Lords, or others of his Majeſtie Privie Councell, That in every ſuch caſe every perſon ſo committed, reſtrained of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> libertie, or ſuffering impriſonment, upon demand or motion made by his Counſell or other employed by him for that purpoſe, unto the Judges of the Court of King<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bench, or Common Pleas, in open Court, ſhall without delay, upon any pretend whatſoever, for the ordinary Fees uſually paid for the ſame, have forthwith grantee unto him a Writ of <hi>Habeas Corpus</hi> to be directed generally unto all and every Sheriff Gaoler, Miniſter, Officer, or other perſon, in whoſe cuſtody the party committe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or reſtrained ſhall be, and the Sheriffs, Gaoler, Miniſter, Officer, or other perſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in whoſe cuſtody the party ſo committed or reſtrained ſhall be, ſhall at the return <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the ſaid Writ, and according to the Command thereof, upon due and convenie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> notice thereof given unto him, at the charge of the party who requireth or procure<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſuch Writ, and upon ſecuritie by his own bond given, to pay the charge of carrying back the Priſoner, if he ſhall be remanded by the Court, to which he ſhall be brought as in like caſes hath been uſed, ſuch Charges of bringing up and carrying back the Priſoner, to be alwayes ordered by the Court, if any difference ſhall ariſe there about, bring or cauſe to be brought the body of the ſaid party ſo committed, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſtrained, unto and before the Iudges or Iuſtices of the ſaid Court, from whence the ſame Writ ſhall iſſue in open Court, and ſhall then likewiſe certifie the true cauſe of ſuch his deteinour, or impriſonment, and thereupon the Court within three Court dayes after ſuch return made and delivered in open Court, ſhall proceed to examine and determine whether the cauſe of ſuch Commitment appearing upon the ſaid return be juſt and legall, or not, and ſhall thereupon do what to Iuſtice ſhall appertain, either
+<pb facs="tcp:171330:8"/>by delivering, bailing, or remanding the priſoner. And if any thing ſhall be other<g ref="char:EOLhyphen"/>wiſe wilfully done or omitted to be done by any Iudge, Iuſtice, Officer, or other per<g ref="char:EOLhyphen"/>ſon afore mentioned, contrary to the direction and true meaning hereof, That then ſuch perſon ſo offending ſhall forfeit to the partie grieved, his treble damages, to be recovered by ſuch means and in ſuch manner, as is formerly in this Act limited and ap<g ref="char:EOLhyphen"/>pointed for the like penaltie to be ſued for and recovered.</p>
+            <p>Provided alwayes and be it enacted, That this Act, and the ſeverall Clauſes therein contained, ſhall be taken and expounded to extend onely to the Court of Star-cham<g ref="char:EOLhyphen"/>ber, and to the ſaid Courts holden before the Preſident and Councell in the Marches <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Wales,</hi> and before the Preſident and Councell in the Northern parts; And alſo to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Court commonly called the Court of the Dutchy of <hi>Lancaſter,</hi> holden before the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hancellour and Councell of that Court: And alſo in the Court of Exchequer of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ounty Palatine of <hi>Cheſter,</hi> held before the Chamberlain and Councell of that Court; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to all Courts of like Iuriſdiction to be hereafter erected, ordained, conſtituted, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> appointed as aforeſaid; And to the Warrants and Directions of the Councel-board, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to the Commitment, reſtraints, and Impriſonments of any perſon or perſons <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ade, commanded, or awarded by the Kings Majeſtie, His Heires or Succeſſours in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir own perſon, or by the Lords and others of the Privie Councell, and every one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them.</p>
+            <p>And laſtly, provided, and be it enacted, That no perſon or perſons ſhall be ſued, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pleaded, moleſted, or troubled, for any offence againſt this preſent Act, unleſſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e partie ſuppoſed to have ſo offended, ſhall be ſued or impleaded for the ſame within <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o yeers at the moſt after ſuch time wherein the ſaid offence ſhall be committed.</p>
+            <pb facs="tcp:171330:9"/>
+            <pb facs="tcp:171330:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
